@@ -1,0 +1,8 @@
+s1=int(input("Enter Hindi Marks"))
+s2=int(input("Enter English Marks"))
+s3=int(input("Enter Mathmatics Marks"))
+s4=int(input("Enter Scince Marks"))
+s5=int(input("Enter History Marks"))
+s6=(s1+s2+s3+s4+s5)
+s7=(s6/500*100)
+print(s7)

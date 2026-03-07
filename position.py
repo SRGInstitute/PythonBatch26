@@ -1,0 +1,10 @@
+num=("apple", "banana", "cherry", "Dragonfruit","papaya","grapes","mango",)
+position_banana=num.index("banana")
+print(num[::3])
+print(num[-3::])
+print(num[2:5:2])
+print(num[0])
+num("apple", "banana", "cherry", "Dragonfruit","papaya","grapes","mango",)
+print(f"{pink}")
+print(f"s_{pink}")
+score=(90,80,55,60,55,45,
